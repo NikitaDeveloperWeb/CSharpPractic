@@ -1,0 +1,17 @@
+C:\Users\nikit\source\repos\Oblik01\Oblik01\bin\Debug\Account.mdb
+C:\Users\nikit\source\repos\Oblik01\Oblik01\bin\Debug\Oblik01.exe.config
+C:\Users\nikit\source\repos\Oblik01\Oblik01\bin\Debug\Oblik01.exe
+C:\Users\nikit\source\repos\Oblik01\Oblik01\bin\Debug\Oblik01.pdb
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.Form1.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.Properties.Resources.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.exe
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.pdb
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.AddAccount.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.FormDelAccount.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.FormEditAccount.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.FormAddWorker.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.FormDelWorker.resources
+C:\Users\nikit\source\repos\Oblik01\Oblik01\obj\Debug\Oblik01.FormEditWorker.resources
